@@ -39,4 +39,3 @@ Execute the Jupyter Notebook to process files and extract structured data:
 
 ### 🔹 4. Using the RAG Pipeline
 ✅ **After preprocessing, the extracted text can be used as input for a Question-Answering (QA) model using the transformers' pipeline.**
-✅ **Modify the answer_question(filepath, question) function in preprocessing.ipynb to test queries.**
