@@ -30,7 +30,7 @@ Before running the script, ensure you have all the required Python libraries:
 ✅ **os**
 ✅ **json**
 
-### 🔹 2️. Run the Preprocessing Notebook
+### 🔹 2. Run the Preprocessing Notebook
 Execute the Jupyter Notebook to process files and extract structured data:
 ✅ **Jupyter notebook preprocessing.ipynb**
 
