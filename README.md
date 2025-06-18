@@ -46,7 +46,7 @@ jupyter notebook QA.ipynb
 ### 3. Review Extracted Data
 The extracted text and metadata will be saved in the `output/` folder in JSON format.
 
-### 4. Using the RAG Pipeline
+### 4. Using the Pipeline
 After preprocessing, the extracted text can be used as input for a Question-Answering (QA) model using the transformers' pipeline.
 
 
